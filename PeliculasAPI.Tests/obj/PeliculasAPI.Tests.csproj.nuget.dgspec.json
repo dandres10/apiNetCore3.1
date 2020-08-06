@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\C#\\udemy\\.Net core\\ProyectoFinal\\PeliculasApi\\PeliculasAPI.Tests\\PeliculasAPI.Tests.csproj": {}
+    "C:\\Users\\dandr\\Desktop\\subirApiNetCore\\apiNetCore3.1\\PeliculasAPI.Tests\\PeliculasAPI.Tests.csproj": {}
   },
   "projects": {
-    "D:\\C#\\udemy\\.Net core\\ProyectoFinal\\PeliculasApi\\PeliculasAPI.Tests\\PeliculasAPI.Tests.csproj": {
+    "C:\\Users\\dandr\\Desktop\\subirApiNetCore\\apiNetCore3.1\\PeliculasAPI.Tests\\PeliculasAPI.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\udemy\\.Net core\\ProyectoFinal\\PeliculasApi\\PeliculasAPI.Tests\\PeliculasAPI.Tests.csproj",
+        "projectUniqueName": "C:\\Users\\dandr\\Desktop\\subirApiNetCore\\apiNetCore3.1\\PeliculasAPI.Tests\\PeliculasAPI.Tests.csproj",
         "projectName": "PeliculasAPI.Tests",
-        "projectPath": "D:\\C#\\udemy\\.Net core\\ProyectoFinal\\PeliculasApi\\PeliculasAPI.Tests\\PeliculasAPI.Tests.csproj",
+        "projectPath": "C:\\Users\\dandr\\Desktop\\subirApiNetCore\\apiNetCore3.1\\PeliculasAPI.Tests\\PeliculasAPI.Tests.csproj",
         "packagesPath": "C:\\Users\\dandr\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\udemy\\.Net core\\ProyectoFinal\\PeliculasApi\\PeliculasAPI.Tests\\obj\\",
+        "outputPath": "C:\\Users\\dandr\\Desktop\\subirApiNetCore\\apiNetCore3.1\\PeliculasAPI.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -31,8 +31,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "D:\\C#\\udemy\\.Net core\\ProyectoFinal\\PeliculasApi\\PeliculasApi\\PeliculasApi.csproj": {
-                "projectPath": "D:\\C#\\udemy\\.Net core\\ProyectoFinal\\PeliculasApi\\PeliculasApi\\PeliculasApi.csproj"
+              "C:\\Users\\dandr\\Desktop\\subirApiNetCore\\apiNetCore3.1\\PeliculasApi\\PeliculasApi.csproj": {
+                "projectPath": "C:\\Users\\dandr\\Desktop\\subirApiNetCore\\apiNetCore3.1\\PeliculasApi\\PeliculasApi.csproj"
               }
             }
           }
@@ -91,18 +91,18 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "D:\\C#\\udemy\\.Net core\\ProyectoFinal\\PeliculasApi\\PeliculasApi\\PeliculasApi.csproj": {
+    "C:\\Users\\dandr\\Desktop\\subirApiNetCore\\apiNetCore3.1\\PeliculasApi\\PeliculasApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\C#\\udemy\\.Net core\\ProyectoFinal\\PeliculasApi\\PeliculasApi\\PeliculasApi.csproj",
+        "projectUniqueName": "C:\\Users\\dandr\\Desktop\\subirApiNetCore\\apiNetCore3.1\\PeliculasApi\\PeliculasApi.csproj",
         "projectName": "PeliculasApi",
-        "projectPath": "D:\\C#\\udemy\\.Net core\\ProyectoFinal\\PeliculasApi\\PeliculasApi\\PeliculasApi.csproj",
+        "projectPath": "C:\\Users\\dandr\\Desktop\\subirApiNetCore\\apiNetCore3.1\\PeliculasApi\\PeliculasApi.csproj",
         "packagesPath": "C:\\Users\\dandr\\.nuget\\packages\\",
-        "outputPath": "D:\\C#\\udemy\\.Net core\\ProyectoFinal\\PeliculasApi\\PeliculasApi\\obj\\",
+        "outputPath": "C:\\Users\\dandr\\Desktop\\subirApiNetCore\\apiNetCore3.1\\PeliculasApi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\"
@@ -202,7 +202,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.201\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.302\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FEwawII9IaRDQF1B0PhrhdYBM/0RYwex0mLNTLDK6ySI6ShuH+w9R8cQSH6C+AYSG1cBUfDVA9CfJBQW15Lj4g==",
+  "dgSpecHash": "rPcGe9wWDq78nJ/Njvc8tWLkF8NUr4H4OmTsPn7Ud/KMFfFQFXW0VvkC2hmaZ2ORYyEqjMfS5yDRqNF0EfLZVg==",
   "success": true,
-  "projectFilePath": "D:\\C#\\udemy\\.Net core\\ProyectoFinal\\PeliculasApi\\PeliculasAPI.Tests\\PeliculasAPI.Tests.csproj",
+  "projectFilePath": "C:\\Users\\dandr\\Desktop\\subirApiNetCore\\apiNetCore3.1\\PeliculasAPI.Tests\\PeliculasAPI.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\dandr\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\dandr\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
